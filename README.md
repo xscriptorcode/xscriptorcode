@@ -5,7 +5,7 @@
 Welcome to my GitHub space, where a passion for writing and coding converge. As **xscriptor**, I weave stories that capture the imagination, and as **xscriptorcode**, I craft simple Python tools that make programmers' lives easier.
 
 ### About Me
-- 📚 **Writer**: From short stories to scripts, my love for words drives me to explore various genres and styles.
+- 📚 **Writer**: Various genres and styles.
 - 💼 **Programmer**: Focusing on **Python**, I create applications and scripts that solve everyday problems and enhance workflows.
 - 🛠️ **Projects**: My repositories reflect my commitment to simplicity and efficiency, sharing tools that anyone can use and improve.
 
