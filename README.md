@@ -19,7 +19,7 @@ I'm open to collaborating on exciting projects that require a unique blend of cr
 - 💼 LinkedIn (Soon)
 
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in grow and share, create and contribute.
 - 🌱 I’m currently learning Python and something more...
 - 💞️ I’m looking to collaborate on all the projects that makes me grow.
 
