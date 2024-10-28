@@ -1,13 +1,14 @@
 # Hello, I'm xscriptor 👋
 
-## Writer 📖 | Programmer 💻 | Python Toolsmith 🐍
+## Writer 📖 | Dev 💻 |
 
 Welcome to my GitHub space, where a passion for writing and coding converge. As **xscriptor**, I weave stories that capture the imagination, and as **xscriptorcode**, I craft simple Python tools that make programmers' lives easier.
 
 ### About Me
-- 📚 **Writer**: Various genres and styles.
-- 💼 **Programmer**: Focusing on **Python**, I create applications and scripts that solve everyday problems and enhance workflows.
+- 💼 **Dev**: Focusing on **Python**, **Flutter** and **Typescript**, I create applications and scripts that solve everyday problems and enhance workflows.
 - 🛠️ **Projects**: My repositories reflect my commitment to simplicity and efficiency, sharing tools that anyone can use and improve.
+- 📚 **Writer**: Various genres and styles.
+- 
 
 ### Collaborations
 I'm open to collaborating on exciting projects that require a unique blend of creative storytelling and programming solutions. If you have an idea you think might fit, feel free to reach out!
