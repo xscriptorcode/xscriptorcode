@@ -4,17 +4,19 @@
 
 <h6 align="left">This is my GitHub space, where a passion for writing and coding converges. As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier.<br><br>About Me:<br><br>💼 Developer: Focusing on front-end and back-end development, aspiring to become a full-stack developer.<br><br>🛠️ Projects: My repositories reflect my commitment to simplicity and efficiency, sharing tools that anyone can use and improve.<br><br>📚 Writer: Exploring various genres and styles.<br><br>Feel free to explore my projects and connect with me for collaborations or discussions.</h6>
 
+
+<!-- 
 ###
 
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/164530146?s=400&u=9b8ed349729d7886c3434a7b2b319765380d1b50&v=4"  />
 </div>
-
+-->
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xscriptorcode/xscriptorcode/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/xscriptorcode/xscriptorcode/blob/output/github-snake.svg)
 
 ###
 
