@@ -1,24 +1,4 @@
-###
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
-  body {
-    font-family: 'Roboto', sans-serif;
-  }
-  h1, h3, h6 {
-    font-family: 'Roboto', sans-serif;
-  }
-  h1 {
-    font-size: 24px;
-  }
-  h3 {
-    font-size: 18px; 
-  }
-  h6 {
-    font-size: 14px; 
-  }
-</style>
-<h1 align="left">Wellcome to xscriptorcode 👋</h1>
 
 ###
 
