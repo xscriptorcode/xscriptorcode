@@ -19,7 +19,7 @@
 
 ###
 
-<h6 align="left">As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier. Focusing on front-end and back-end development, aspiring to become a full-stack developer.</h6>
+<h3 align="left">As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier. Focusing on front-end and back-end development, aspiring to become a full-stack developer.</h3>
 
 
 <!-- 
@@ -37,7 +37,7 @@
 
 ###
 
-<h6 align="center">Web Aplications</h6>
+<h3 align="center">Languajes</h3>
 
 ###
 
@@ -55,31 +55,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h6 align="center">Mobile Aplications</h6>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-</div>
-
-###
-
-<h6 align="center">Desktop Applications</h6>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
@@ -116,7 +94,7 @@
 
 ###
 
-<h6 align="center">DB</h6>
+<h6 align="center">DB & IDE</h6>
 
 ###
 
@@ -124,15 +102,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-</div>
-
-###
-
-<h6 align="center">IDE</h6>
-
-###
-
-<div align="center">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="androidstudio logo"  />
@@ -142,7 +112,7 @@
 
 ###
 
-<h6 align="center">Non programming skills</h6>
+<h6 align="center">Non-programming skills</h6>
 
 ###
 
