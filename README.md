@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">This is my GitHub space, where a passion for writing and coding converges. As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier.<br><br>About Me:<br><br>💼 Developer: Focusing on front-end and back-end development, aspiring to become a full-stack developer.<br><br>🛠️ Projects: My repositories reflect my commitment to simplicity and efficiency, sharing tools that anyone can use and improve.<br><br>📚 Writer: Exploring various genres and styles.<br><br>Feel free to explore my projects and connect with me for collaborations or discussions.</h6>
+<h3 align="left">As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier.<br><br>About Me:<br><br>💼 Developer: Focusing on front-end and back-end development, aspiring to become a full-stack developer.<br><br>🛠️ Projects: My repositories reflect my commitment to simplicity and efficiency, sharing tools that anyone can use and improve.<br></h3>
 
 
 <!-- 
