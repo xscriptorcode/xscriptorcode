@@ -1,3 +1,21 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  h1, h3, h6 {
+    font-family: 'Roboto', sans-serif;
+  }
+  h1 {
+    font-size: 24px;
+  }
+  h3 {
+    font-size: 18px; 
+  }
+  h6 {
+    font-size: 14px; 
+  }
+</style>
 <h1 align="left">Wellcome to xscriptorcode 👋</h1>
 
 ###
@@ -19,7 +37,7 @@
 
 ###
 
-<h3 align="left">As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier. Focusing on front-end and back-end development, aspiring to become a full-stack developer.</h3>
+<h6 align="left">As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier. Focusing on front-end and back-end development, aspiring to become a full-stack developer.</h6>
 
 
 <!-- 
