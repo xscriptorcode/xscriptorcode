@@ -19,7 +19,7 @@
 
 ###
 
-<h5 align="left">As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier. Focusing on front-end and back-end development, aspiring to become a full-stack developer.</h5>
+<h3 align="left">As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier. Focusing on front-end and back-end development, aspiring to become a full-stack developer.</h3>
 
 
 <!-- 
@@ -36,7 +36,7 @@
 
 ###
 
-<h5 align="center">Languajes & Frameworks</h5>
+<h4 align="center">Languajes & Frameworks</h4>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h5 align="center">OS & Servers</h5>
+<h4 align="center">OS & Servers</h4>
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-<h5 align="center">DB & IDE</h5>
+<h4 align="center">DB & IDE</h4>
 
 ###
 
@@ -107,7 +107,7 @@
 
 ###
 
-<h5 align="center">Non-programming skills</h5>
+<h4 align="center">Non-programming skills</h4>
 
 ###
 
