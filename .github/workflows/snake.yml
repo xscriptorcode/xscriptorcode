@@ -14,7 +14,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: xscriptorcode  # Reemplaza con tu nombre de usuario
+          github_user_name: xscriptorcode
           outputs: |
             dist/github-snake.svg
       - name: Push Generated Snake
