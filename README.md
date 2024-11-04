@@ -2,7 +2,24 @@
 
 ###
 
-<h3 align="left">As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier.<br><br>About Me:<br><br>💼 Developer: Focusing on front-end and back-end development, aspiring to become a full-stack developer.<br><br>🛠️ Projects: My repositories reflect my commitment to simplicity and efficiency, sharing tools that anyone can use and improve.<br></h3>
+<div align="center">
+  <a href="https://www.instagram.com/xscriptorcode" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href ="https://discord.com/invite/6ZkD2PN7BX" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/xscriptor/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/34666938748" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier. Focusing on front-end and back-end development, aspiring to become a full-stack developer.</h3>
 
 
 <!-- 
@@ -96,9 +113,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
 </div>
 
-###
-
-<h6 align="center">Servers</h6>
 
 ###
 
@@ -142,20 +156,6 @@
   <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="adobeaftereffects logo"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/xscriptorcode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://www.linkedin.com/in/xscriptor/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/34666938748" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
 
 ###
 
