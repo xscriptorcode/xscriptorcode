@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier. Focusing on front-end and back-end development, aspiring to become a full-stack developer.</h3>
+<h5 align="left">As xscriptor, I weave stories that capture the moment, and as xscriptorcode, I craft scripts and programs designed to make people's lives easier. Focusing on front-end and back-end development, aspiring to become a full-stack developer.</h5>
 
 
 <!-- 
@@ -31,13 +31,12 @@
 -->
 ###
 
-<br clear="both">
 
 ![Snake animation](https://github.com/xscriptorcode/xscriptorcode/blob/output/github-snake.svg)
 
 ###
 
-<h3 align="center">Languajes</h3>
+<h5 align="center">Languajes & Frameworks</h5>
 
 ###
 
@@ -56,8 +55,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
@@ -65,13 +62,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
 ###
 
-<h6 align="center">OS & Servers</h6>
+<h5 align="center">OS & Servers</h5>
 
 ###
 
@@ -94,7 +89,7 @@
 
 ###
 
-<h6 align="center">DB & IDE</h6>
+<h5 align="center">DB & IDE</h5>
 
 ###
 
@@ -112,7 +107,7 @@
 
 ###
 
-<h6 align="center">Non-programming skills</h6>
+<h5 align="center">Non-programming skills</h5>
 
 ###
 
