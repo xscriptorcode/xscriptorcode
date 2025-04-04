@@ -110,19 +110,6 @@
 
 ###
 
-<h4 align="center">Non-programming skills</h4>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="adobeaftereffects logo"  />
-</div>
 
 
 ###
